@@ -8,6 +8,5 @@ Conhecendo mais funções em JavaScript, brincando com pinturas na tela do canva
 </div>
 <br><hr>
 <br>
-<hr>
 <h2> Conheça a Alura!</h2>
 <a href="https://www.alura.com.br/">Viste a Alura para conhecer seus cursos!</a>
